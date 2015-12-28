@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fake Snake</string>
+    <string name="mode_ready">Snake\n Press Up to Play</string>
+    <string name="mode_pause">Paused\n Press Up to Resume</string>
+    <string name="mode_lose_prefix">Game Over\n Score:</string>
+    <string name="mode_lose_suffix">\nPress Up to Play</string>
+  	<string name="snake_layout_text_text">Press Up\nto Play</string>
+</resources>
